@@ -1,8 +1,7 @@
 ## Welcome to My Region
 
-You can use the [editor on GitHub](https://github.com/JYang-AI/JY-Region/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
+I am a Phd Candidate on Machine Learning.  I also have some former experience on Wireless Communications. This is my region to summarize, share, communicate...  
 
 ### Markdown
 
@@ -23,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/JYang-AI/JY-Region/edit/main/README.md) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
